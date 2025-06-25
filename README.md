@@ -7,7 +7,7 @@ Ce dépôt contient trois exercices Scala illustrant différents concepts de pro
 
 ## Exercices
 
-###  EXERCICEXVI- Extraction de données structurées
+### EXERCICE XI- Extraction de données structurées
 ```scala
 // Extrait les informations d'une phrase structurée
 Input: "Vanilla Donut 10 2.25"
@@ -16,7 +16,7 @@ Type : Vanilla Donut
 Quantité : 10
 Prix unitaire : 2.25
 
-EXERCICEXVII
+### EXERCICEXII
 // Partie 1: Intersection de deux listes
 Articles communs aux deux paniers :
 Lait
@@ -26,7 +26,7 @@ Fromage
 un crayon est nécessaire dans la classe.
 un stylo est nécessaire dans la classe.
 
-### EXERCICEXV
+###EXERCICEXV
 // Analyse complète du dataset Titanic avec:
 - Chargement de données CSV
 - Transformations DataFrame/RDD
