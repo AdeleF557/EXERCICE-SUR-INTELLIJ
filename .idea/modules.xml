@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dossier1Scala.iml" filepath="$PROJECT_DIR$/.idea/modules/Dossier1Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dossier1Scala/.idea/modules/Dossier1Scala/Dossier1Scala.Dossier1Scala-build.iml" filepath="$PROJECT_DIR$/Dossier1Scala/.idea/modules/Dossier1Scala/Dossier1Scala.Dossier1Scala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dossier1Scala/.idea/modules/Dossier1Scala/Dossier1Scala.main.iml" filepath="$PROJECT_DIR$/Dossier1Scala/.idea/modules/Dossier1Scala/Dossier1Scala.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dossier1Scala/.idea/modules/Dossier1Scala/Dossier1Scala.test.iml" filepath="$PROJECT_DIR$/Dossier1Scala/.idea/modules/Dossier1Scala/Dossier1Scala.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Clone/SparkProject.iml" filepath="$PROJECT_DIR$/.idea/modules/Clone/SparkProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Clone/SparkProject.SparkProject-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Clone/SparkProject.SparkProject-build.iml" />
+    </modules>
+  </component>
+</project>
